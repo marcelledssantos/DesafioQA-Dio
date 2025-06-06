@@ -1,0 +1,21 @@
+Mind Map - User Story 1
+
+Este é o documento de orientação para a criação ou inclusão de um Mind Map referente à User Story:
+
+User Story 1:
+Como usuário logado,
+Quero poder atualizar meu perfil,
+Para manter minhas informações sempre atualizadas.
+
+Sugestões de ferramentas:
+- https://app.diagrams.net/
+- https://www.xmind.net/
+- https://www.canva.com/
+- Ou desenho manual escaneado
+
+Recomenda-se incluir um mapa mental com:
+- Objetivo da funcionalidade
+- Entradas esperadas
+- Saídas esperadas
+- Critérios de aceitação
+- Possíveis falhas ou fluxos alternativos
