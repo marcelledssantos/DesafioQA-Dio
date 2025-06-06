@@ -47,7 +47,3 @@ Nome do arquivo sugerido: `mindmap_user_story_1.png` ou `.pdf`
 ├── mindmap_user_story_1.png
 └── README.md
 ```
-
----
-
-## ✅ Status: Finalizado e pronto para entrega
